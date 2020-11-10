@@ -1,6 +1,1 @@
-#include<stdio.h>
-int main(){
-
-  printf("hello");
-  return 0;
-  }
+关于如何使用GitHub（java思政作业）？
